@@ -316,7 +316,7 @@ padding: 0; border-bottom: 1px solid rgba(255,255,255,.3);
 .download2-section {
     width: 100%;
     padding: 50px 0;
-    color: #000;
+    color: #fff;
     background: url(../img/downloads2-bg.jpg) no-repeat center center scroll;
     background-color: #000;
     -webkit-background-size: cover;
@@ -442,3 +442,4 @@ body {
 
 
 .test {font-size: 20px; line-height: 40px;}
+.cadre {border-radius: 12px; background-color: #505050; font-style: italic; font-size:15px; padding: 12px; text-align:left;} 
